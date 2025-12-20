@@ -72,19 +72,19 @@ Values where |z| > 3 were flagged as outliers.
 
 How to Run the Project:
 Install required packages:
-קוד
+
 1. pip install pandas numpy matplotlib seaborn scipy
 2. Place the dataset in the same folder as the notebook.
 3. Open the notebook (.ipynb) in Jupyter or VS Code.
 4. Run all cells from top to bottom.
 
 Repository Structure:
-קוד
-Laptop-Price-Analysis/
-│
-├── laptop_price - dataset.csv
-├── Laptop_Analysis.ipynb
-└── README.md
+
+Laptop-Price-Analysis
+
+laptop_price - dataset.csv
+Laptop_Analysis.ipynb
+README.md
 Author:
 Eden Elkoubi
 Neuroscience Data Analysis Workshop
